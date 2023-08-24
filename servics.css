@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+    font-size: large;
+    text-align: center;
+}
+.seyi{
+    background-color: darksalmon;
+    margin: 5px;
+    padding: 20px;
+}
+h1{
+    color: olive;
+    margin: 5px;
+}
+.ayo{
+background-color: saddlebrown;
+color: azure;
+margin: 3px;
+padding: 20px;
+}
+h2{
+color: khaki;
+}
+button{
+    color: hotpink;
+    background-color: darkolivegreen;
+}

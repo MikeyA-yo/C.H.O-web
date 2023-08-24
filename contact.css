@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    background-color: papayawhip;
+    text-align: center;
+}
+aside{
+float:right;
+background-color: aqua;
+color: firebrick;
+}
+table,th,td{
+    color: beige;
+    background-color: darkcyan;
+    border: dotted;
+    border-color: darkgray;
+    border-style: dotted;
+    border:1px,solid black;
+}
+h1{
+    text-align: left;
+}

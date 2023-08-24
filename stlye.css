@@ -1,0 +1,58 @@
+body {
+   font-family: Arial, sans-serif; 
+   background-image: url(bg.jpg);
+   margin: 0;
+   padding: 20px;
+   text-align: center;
+ font-size: larger;  
+ line-height: 1.5;
+}
+h2{
+    color:maroon ;
+}
+h3{
+    color: aquamarine;
+}
+h1 {
+    color:blacks ;
+    padding: 25px;
+    text-align: center;
+}
+p{
+    color: ghostwhite;
+line-height: 1.5;
+}
+ul{
+background-color: brown;
+    color: gray;
+    text-align: left;
+}
+.trial{
+    background-color: cadetblue;
+    color: lavender;
+}
+a:active{
+    color: beige;
+    background-color: none;
+    text-decoration: none;
+}
+a:link{
+    color: palegreen;
+    background-color: none;
+    text-decoration: underline;
+}
+a:hover{
+    color: aqua;
+    background-color: none;
+    text-decoration: underline;
+}
+a:visited{
+    color: cornsilk;
+    background-color: none;
+    text-decoration: dotted;
+}
+button{
+    color: aqua;
+    background-color: maroon;
+    font-family: monospace;
+}

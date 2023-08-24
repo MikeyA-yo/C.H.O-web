@@ -1,0 +1,39 @@
+body{
+  font-family: sans-serif;
+  text-align: center;  
+  background-color: mistyrose; 
+  padding: 10px;
+  font-size: larger;
+}
+h2{
+    color: firebrick;
+    padding: 5px;
+}
+h1{
+    color: darkolivegreen;
+    padding: 5px;
+}
+p{
+    color: saddlebrown;
+    line-height: 1.5;
+}
+ul{
+    color: ghostwhite;
+    text-align: left;
+}
+.h2c{
+    color: black;
+}
+button{
+    color: blue;
+    background-color: cornsilk;
+}
+.yo{
+    background-color: azure;
+padding: 3%;
+}
+.hey{
+    background-color: darkolivegreen;
+    margin: 3px;
+    padding: 3%;
+}
